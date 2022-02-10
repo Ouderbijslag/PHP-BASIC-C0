@@ -3,7 +3,8 @@
 <body>
 
 <?php
-
+    $voornaam = "Tom";
+    echo gettype($voornaam);
 ?>
 
 </body>
