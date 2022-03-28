@@ -2,8 +2,8 @@
 <html>
 <body>
 
-<?php
-
+<?php  
+    require 'includes/menu.php';
 ?>
 
 </body>
